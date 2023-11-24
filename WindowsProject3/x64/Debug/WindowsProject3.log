@@ -1,0 +1,6 @@
+﻿  WindowsProject3.cpp
+C:\Users\eliud\OneDrive\Escritorio\WindowsProject3\WindowsProject3\WindowsProject3.cpp(554,40): warning C4244: '=': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\eliud\OneDrive\Escritorio\WindowsProject3\WindowsProject3\WindowsProject3.cpp(626,37): warning C4244: '=': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\eliud\OneDrive\Escritorio\WindowsProject3\WindowsProject3\WindowsProject3.cpp(628,43): warning C4244: '=': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\eliud\OneDrive\Escritorio\WindowsProject3\WindowsProject3\WindowsProject3.cpp(901,12): warning C4101: 'hf': variable local sin referencia
+  WindowsProject3.vcxproj -> C:\Users\eliud\OneDrive\Escritorio\WindowsProject3\x64\Debug\WindowsProject3.exe
